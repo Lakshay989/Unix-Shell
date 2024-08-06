@@ -6,26 +6,6 @@ Owner: Lakshay Santosh Kucheriya
 
 In this project, I crafted a Unix shell in C++. This custom shell allows users to run commands, incorporating features like I/O redirection and piping, akin to common Unix shells such as bash and zsh.
 
-## Running the Program
-
-1. **Download the Code or fork the repo**
-
-   ```
-   git clone https://github.com/your-username/UnixShell.git
-   ```
-
-2. **Build the Program:**
-
-   ```
-   make
-   ```
-
-3. **Execute the Program:**
-
-   ```
-   ./program
-   ```
-
 ## Test Commands
 
 You can use the following test commands to explore the functionality of the Unix shell. In your terminal. 
